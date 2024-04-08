@@ -25,7 +25,6 @@ Curated projects &amp; tools for the Degen ecosystem
 ### Farcaster
 - [/degen](https://warpcast.com/~/channel/degen) - Original Degen channel on Warpcast
 - [/degen-devs](https://warpcast.com/~/channel/degen-devs) - Channel for Degen chain builders
-- 
 ## Ecosystem
 ### Dapps
 - [DegenDapps.lol](https://degendapps.lol) - Search projects within the Degen Chain ecosystem by title or filter by category
