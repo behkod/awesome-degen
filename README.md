@@ -26,6 +26,7 @@ Curated projects &amp; tools for the Degen ecosystem
 - [/degen](https://warpcast.com/~/channel/degen) - Original Degen channel on Warpcast
 - [/degen-devs](https://warpcast.com/~/channel/degen-devs) - Channel for Degen chain builders
 ## Ecosystem
+- [Defillama](https://defillama.com/chain/Degen) - Aggregated view provided by Defillama (including TVL, Protocol Lists, ...)
 ### Dapps
 - [DegenDapps.lol](https://degendapps.lol) - Search projects within the Degen Chain ecosystem by title or filter by category
 ### Dex
