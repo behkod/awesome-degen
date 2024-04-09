@@ -6,6 +6,7 @@ Curated projects &amp; tools for the Degen ecosystem
 - [Communities](#communities)
   - [Farcaster](#Farcaster)
 - [Ecosystem](#Ecosystem)
+  - [Wallet](#wallet)
   - [Dex](#dex)
   - [Farming](#farming)
   - [NFT](#nft)
@@ -27,6 +28,9 @@ Curated projects &amp; tools for the Degen ecosystem
 - [/degen-devs](https://warpcast.com/~/channel/degen-devs) - Channel for Degen chain builders
 ## Ecosystem
 - [Defillama](https://defillama.com/chain/Degen) - Aggregated view provided by Defillama (including TVL, Protocol Lists, ...)
+- [Zapper](https://zapper.xyz/) - Zapper.xyz
+### Wallet
+- [Zerion](https://zerion.io/) - Zerion
 ### Dapps
 - [DegenDapps.lol](https://degendapps.lol) - Search projects within the Degen Chain ecosystem by title or filter by category
 ### Dex
